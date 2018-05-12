@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37391
     wikipedia: http://en.wikipedia.org/wiki/Eleanor_Hoyt_Brainerd
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35008#Concerning-Belinda
 gutenberg_issued: '2011-01-19'
 gutenberg_type: Text
 identifiers:
