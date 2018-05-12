@@ -1,0 +1,45 @@
+_repo: Concerning-Belinda_35008
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Fisher, Harrison
+    birthdate: 1875
+    deathdate: 1934
+    gutenberg_agent_id: '25149'
+    url: http://www.gutenberg.org/2009/agents/25149
+  - agent_name: Richardson, Katharine N.
+    gutenberg_agent_id: '37392'
+    url: http://www.gutenberg.org/2009/agents/37392
+covers:
+- cover_type: archival
+  image_path: 35008-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brainerd, Eleanor Hoyt
+    alias: Hoyt, Eleanor
+    birthdate: 1868
+    deathdate: 1942
+    gutenberg_agent_id: '37391'
+    url: http://www.gutenberg.org/2009/agents/37391
+    wikipedia: http://en.wikipedia.org/wiki/Eleanor_Hoyt_Brainerd
+description: ''
+gutenberg_issued: '2011-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35008'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Teachers -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Schools -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+tableOfContents: Belinda and the twelve -- The musical romance of Amelia -- The elopement
+  of Evangeline Marie -- A wolf in the fold -- The black sheep's Christmas -- The
+  blighted being -- The passing of an affinity -- The queer little thing -- A continuous
+  performance -- Adelina and the drama.
+title: Concerning Belinda
+url: http://www.gutenberg.org/ebooks/35008
